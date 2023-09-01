@@ -44,6 +44,9 @@ Source: https://stocksnap.io/photo/4B83RD7BV9
 
 == Changelog ==
 
+= 2.1.0 =
+* Adding TEC single-event.php template with an `[sfg_tribe_event_data/]` shortcode.
+
 = 2.0.0 - 2023-04-27 =
 * Load child theme stylesheet after parent theme stylesheet
 * Added a constant for better version management
